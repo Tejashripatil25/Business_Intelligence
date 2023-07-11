@@ -52,6 +52,8 @@ Tactical Level: Once the strategy is made though for handling all the details an
 
 Operational Level: Operation decisions are made at this level. Operational decisions help in operating the system.
 
+![image](https://github.com/Tejashripatil25/Business_Intelligence/assets/124791646/5df2cf16-7a75-424b-854e-7ac896b186fe)
+
 ### Applications of Business Intelligence:
 
 In Decision Making of the company by decision-makers of the organizations.
